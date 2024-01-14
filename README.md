@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**ExinMah/ExinMah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Interactive Software Development Student | Flutter Intern**
 
-Here are some ideas to get you started:
+👋 Hi there! I'm Redox, an avid believer of "No one did that [exact thing you've been looking for to no avail]? Do it yourself!"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExinMah&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+🌐 **Tech Stack:**
+- Flutter & Dart 🚀
+- Unity
+- Python
+- Assembly Language
+- C++
+
+🔧 **Skills:**
+- UI/UX Design
+- Mobile App Development
+- Problem-Solving
+- Game Development
+
+🌱 **Learning & Growing:**
+- Constantly exploring new technologies and methodologies
+- Eager to do
